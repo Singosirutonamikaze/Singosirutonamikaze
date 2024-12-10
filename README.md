@@ -19,7 +19,7 @@
 
 - 📫 **How to reach me:**  
   You can connect with me via:  
-  - **Email**: yaodieudonnesingo60@gmail.com
+  - **Email**: yaodieudonnesingo60@gmail.com/yaodieudonnesingo6@gmail.com
   - **LinkedIn**: www.linkedin.com/in/singo-yao-dieu-donne
 
 - 😄 **Pronouns:**  
