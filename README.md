@@ -6,8 +6,6 @@
 
 - 🌱 **What I’m currently learning:**  
   I am growing my skills in:  
-  - **Java** for robust backend systems  
-  - **PHP** for dynamic web applications  
   - **Python** for data processing and AI projects  
   - **JavaScript** for interactive websites  
   - **HTML & CSS** to design and structure modern web pages  
