@@ -1,6 +1,4 @@
-Voici une version améliorée de votre README avec un design plus moderne, des sections mieux organisées et des éléments interactifs :
 
-```markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/Singosirutonamikaze/Singosirutonamikaze/main/banner.png" alt="Banner" width="100%" style="border-radius:10px"/>
 </p>
@@ -24,10 +22,8 @@ Voici une version améliorée de votre README avec un design plus moderne, des s
   </a>
 </p>
 
----
-
 ## � About Me
-```javascript
+
 const yao = {
   pronouns: "He" | "Him",
   code: ["JavaScript", "TypeScript", "Python"],
@@ -38,9 +34,7 @@ const yao = {
   currentFocus: "Building scalable full-stack applications with AI integrations",
   funFact: "Named after 'God's Gift' - pressure's on to deliver! 😄"
 };
-```
 
----
 
 ## 🛠️ Tech Stack
 
