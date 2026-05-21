@@ -1,0 +1,47 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      .rotating-group { animation: rotate 30s linear infinite; transform-origin: 200px 200px; }
+      .static-text { font-family: sans-serif; font-size: 14px; fill: #ffffff; font-weight: bold; letter-spacing: 2px; }
+      .icon-bg { fill: #000; stroke: #fff; stroke-width: 1.5; }
+    </style>
+  </defs>
+  <rect width="400" height="400" fill="none" />
+  <circle cx="200" cy="200" r="150" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="5,5" />
+  <g class="rotating-group">
+    <g transform="translate(175, 25)">
+      <circle cx="25" cy="25" r="25" class="icon-bg" />
+      <image href="icons/react.png" x="10" y="10" height="30" width="30" />
+    </g>
+    <g transform="translate(281, 69)">
+      <circle cx="25" cy="25" r="25" class="icon-bg" />
+      <image href="icons/next.png" x="10" y="10" height="30" width="30" />
+    </g>
+    <g transform="translate(325, 175)">
+      <circle cx="25" cy="25" r="25" class="icon-bg" />
+      <image href="icons/javascript.png" x="10" y="10" height="30" width="30" />
+    </g>
+    <g transform="translate(281, 281)">
+      <circle cx="25" cy="25" r="25" class="icon-bg" />
+      <image href="icons/html.png" x="10" y="10" height="30" width="30" />
+    </g>
+    <g transform="translate(175, 325)">
+      <circle cx="25" cy="25" r="25" class="icon-bg" />
+      <image href="icons/css.png" x="10" y="10" height="30" width="30" />
+    </g>
+    <g transform="translate(69, 281)">
+      <circle cx="25" cy="25" r="25" class="icon-bg" />
+      <image href="icons/tailwind.png" x="10" y="10" height="30" width="30" />
+    </g>
+    <g transform="translate(25, 175)">
+      <circle cx="25" cy="25" r="25" class="icon-bg" />
+      <image href="icons/git.png" x="10" y="10" height="30" width="30" />
+    </g>
+    <g transform="translate(69, 69)">
+      <circle cx="25" cy="25" r="25" class="icon-bg" />
+      <image href="icons/docker.png" x="10" y="10" height="30" width="30" />
+    </g>
+  </g>
+  <text x="200" y="205" text-anchor="middle" class="static-text">CORE_STACK</text>
+</svg>
